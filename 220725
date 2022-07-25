@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>My Resume</title>
+        <style>
+            body {
+                background-color:lightgrey;
+                font-family:Microsoft JhengHei;
+            }
+            .p {
+                background-color: #290244;color: white;
+                font-weight: bold;
+                font-size: 30px;
+			    margin-bottom: 10px;
+                text-align: center;
+                padding: 20px;
+                letter-spacing: 2px;
+              }
+            .q1 {
+                color: black;
+                font-weight: bold;
+                font-size: 25px;
+                text-align: left;
+                padding: 20px;
+                letter-spacing: 1px;
+                }
+            .q2 {
+                color: black;
+                font-weight: bold;
+                font-size: 20px;
+                margin-bottom: 10px;
+                text-align: left;
+                letter-spacing: 0.5px;
+                }
+            .a{
+                color: rgb(26, 23, 23);
+                font-size: 18px;
+                margin-bottom: 5px;
+                text-align: left;
+                padding: 20px;
+
+            }
+            </style>
+    </head>
+    <body>
+        <div class="p">陳思蘋的申請資料</div>
+        <div class="q1">個人簡介</div>
+        <div class="a">我是陳思蘋，今年30歲，畢業於輔仁大學生命科學系，在學期間因系上有安排生物統計學的課程有短暫接觸到程式語言，後因其他方向的課程繁重而沒有繼續深入學習，
+                畢業後分別在在長庚大學及輔仁大學擔任研究人員4年及3年。因目前工作已熟練且有許多空閒時間學習新知識，經朋友介紹接觸到彭彭的課程，覺得課程很有趣、很詳細，想全面精進程式相關技能，
+                期許自己能成功轉職為軟體工程師。
+
+        </div>
+        <hr/>
+        <ul>
+            <li class="q2">為了成為軟體工程師，曾做過什麼努力？</li>
+            <div class="a">現階段依照彭彭課程建議在<a href="https://www.w3schools.com/">w3shool</a>上學習並熟悉HTML及CSS相關用法，很多此申請資料面臨的問題就在此網站上找到解決方法，
+            預計在開課前會完成彭彭在youtube中所提供的課程。</div>
+            <li class="q2">如果參與這個計畫，會怎麼安排學習時間？</li>
+            <div class="a">目前為在職狀態，若能有幸參與課程將會離職以便全程參與課程，未來會安排8~10小時專心學習課程並完成作業。</div>
+            <li class="q2">是否有想要加入的軟體公司？為什麼想加入該公司？</li>
+            <div class="a">在還未真正深入了解此產業之前，預設是想進入電商公司，覺得會面臨很多即時性的挑戰，對於我會很有挑戰性且可以更快累積經驗值。</div>
+            <li class="q2">請描述一件你曾經碰到最困難的事情，如何克服？</li>
+            <div class="a">ans</div>
+            <li class="q2">關於這份申請網頁，請分享一個你開發時的技術心得。</li>
+            <div class="a">在製作這份申請網頁時，條列及水平線的使用可以很有效的讓畫面變得簡潔易懂，</div>
+            <li class="q2">其他想要對我們說的事情？</li>
+            <div class="a">ans</div>
+        </ul>
+    </body>
+</html>
