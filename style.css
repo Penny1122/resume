@@ -1,0 +1,57 @@
+body {
+    background-color:lightgrey;
+    font-family:Microsoft JhengHei;
+}
+.title {
+    background-color: #290244;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 2px;
+    }
+.profile {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left;
+    padding: 20px;
+    letter-spacing: 1px;
+    }
+.q2 {
+    color: darkolivegreen;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+    letter-spacing: 0.5px;
+    }
+.ans {
+    color: rgb(26, 23, 23);
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    letter-spacing: 1px;
+}
+table, td, th {  
+    border: 1px solid black;
+}
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+th {
+    color:black;
+    font-weight: bold;
+}
+td {
+    color: black;
+
+}
