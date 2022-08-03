@@ -5,6 +5,7 @@ body {
 .title {
     background-color: #290244;
     color: white;
+    text-shadow: 2px 2px 1px grey;
     font-weight: bold;
     font-size: 30px;
     margin-bottom: 10px;
